@@ -1,0 +1,2 @@
+# automata
+automatiza tus ideas
